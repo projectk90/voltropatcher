@@ -1,2 +1,2 @@
-# voltropatcher
-The software: deletes the volt files, patches latest roblox dll. and launches it.
+RoPatcher
+A simple tool to patch Roblox by replacing DLL files.
